@@ -47,7 +47,75 @@ division    product_code     product    total_sold_quantity    rank_order
 ## Analysis View  
 
 <p align="center">
-    <img src="https://github.com/Nikhil-Rane108/Hospitality-Analysis-Dashboard/blob/main/dashboard%20home%20page.png" width="600">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%231.png" width="300">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%232.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%232.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%233.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%233.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%234.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%234.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%235.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%236.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%236.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%237.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%237.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%238.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%238.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%239.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%239.1.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%2310.png" width="600">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/%2310.1.png" width="600">
 </p>
 
 
