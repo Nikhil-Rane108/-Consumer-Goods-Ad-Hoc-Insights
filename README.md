@@ -1,12 +1,13 @@
 # Consumer-Goods-Ad-Hoc-Insights 
+# 📄 [Codebasics Resume Project challenge - 4](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
+
 
 ## Problem statement
 
 The management did observe, though, that they do not receive enough information to enable them to make prompt, well-informed decisions. 
 They wish to add a number of junior data analysts to their data analytics team. Their director of data analytics, Tony Sharma, was looking for a candidate with both technical and soft skills. 
 In order to better understand both skills, he made the decision to conduct a SQL challenge and seeks insights for 10 ad-hoc request.
-<img width="4412" height="255" alt="image" src="https://github.com/user-attachments/assets/ac97c23f-d49e-46df-98b5-571899605e03" />
-.
+
 
 ### Task List
 
