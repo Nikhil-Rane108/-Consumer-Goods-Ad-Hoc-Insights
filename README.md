@@ -40,7 +40,7 @@ division    product_code     product    total_sold_quantity    rank_order
 ## Data Model
 
 <p align="center">
-    <img src="https://github.com/Nikhil-Rane108/Hospitality-Analysis-Dashboard/blob/main/Data%20model.png" height="400">
+    <img src="https://github.com/Nikhil-Rane108/-Consumer-Goods-Ad-Hoc-Insights/blob/main/sql%20data%20model.png" height="400">
 </p>
 
 
