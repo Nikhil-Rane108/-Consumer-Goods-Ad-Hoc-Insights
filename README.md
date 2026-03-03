@@ -2,9 +2,11 @@
 
 ## Problem statement
 
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
-
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+The management did observe, though, that they do not receive enough information to enable them to make prompt, well-informed decisions. 
+They wish to add a number of junior data analysts to their data analytics team. Their director of data analytics, Tony Sharma, was looking for a candidate with both technical and soft skills. 
+In order to better understand both skills, he made the decision to conduct a SQL challenge and seeks insights for 10 ad-hoc request.
+<img width="4412" height="255" alt="image" src="https://github.com/user-attachments/assets/ac97c23f-d49e-46df-98b5-571899605e03" />
+.
 
 ### Task List
 
