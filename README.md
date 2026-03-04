@@ -124,10 +124,8 @@ division    product_code     product    total_sold_quantity    rank_order
 
 ## Some Important insights from the Dashboard
 
-- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-- AtliQ Bay has the highest occupancy of 66%
-- Week 24 recorded the highest revenue among all, which is 139.6 Million
-- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-- AtliQ lost around 298 Million in cancellation 
-- Elite type rooms has the most booking and as well higher cancellation rate
+- By addressing particular client needs with dependable, customized solutions, AtliQ should improve their desktop, storage, and networking offerings.
+- To increase consumer interest and loyalty, offer competitive pricing with alluring discounts, bundles, and time-limited promotions.
+- To increase visibility and customer engagement, use consistent marketing techniques across online, offline, and in-store channels.
+- Continue to collect and evaluate client feedback in order to improve services, improve products, and establish enduring trust.
+
