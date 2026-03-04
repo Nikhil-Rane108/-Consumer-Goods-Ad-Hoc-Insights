@@ -1,6 +1,6 @@
 # Consumer-Goods-Ad-Hoc-Insights 
 # 📄 [Codebasics Resume Project challenge - 4](https://codebasics.io/challenges/codebasics-resume-project-challenge/7) 
-[Presentation](https://youtu.be/04Y0K5qXNd8) | [LinkedIn Post](https://www.linkedin.com/posts/nikhil-rane-analyst_powerbi-hospitalitydomain-dataanalytics-activity-7408458423538896896-899q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC10OvgB0zh_HYQl7nxkQqRRSMldQv55JME)
+[Presentation](https://youtu.be/04Y0K5qXNd8) | [LinkedIn Post](https://www.linkedin.com/posts/nikhil-rane-analyst_sql-dataanalytics-learningjourney-activity-7435024559550005249-G1Vk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC10OvgB0zh_HYQl7nxkQqRRSMldQv55JME)
 
 
 
